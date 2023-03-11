@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
           appBar: AppBar(
             title: Text('ล็อกอินฟอร์ม101'),
-            shadowColor: Colors.amber,
           ),
           body: Padding(
             padding: const EdgeInsets.all(20.0),
