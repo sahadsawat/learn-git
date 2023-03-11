@@ -13,7 +13,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.dark(),
       home: Scaffold(
           appBar: AppBar(
-            title: Text('ล็อกอินฟอร์ม'),
+            title: Text('ล็อกอินฟอร์ม101'),
+            shadowColor: Colors.amber,
           ),
           body: Padding(
             padding: const EdgeInsets.all(20.0),
